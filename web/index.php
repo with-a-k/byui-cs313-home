@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    Erik's Homepage
+    <title>Erik's Homepage</title>
     <link rel=stylesheet href="styles/foundation.css">
   </head>
   <body>
