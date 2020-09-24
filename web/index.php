@@ -6,7 +6,7 @@
   </head>
   <body>
     <div>
-      <?php include "navi.php"; ?>
+      <? php include "navi.php"; ?>
     </div>
 
   </body>
