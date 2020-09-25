@@ -7,16 +7,16 @@ p {
   color: #ffdf30;
 }
 
-.card {
+.card.project {
   background-color: #592561;
 }
 
-.card-divider {
+.card-divider.project {
   background-color: #845483;
   color: #ffdf30;
 }
 
-.card-section {
+.card-section.project {
   background-color: #945F9A;
   color: #ffdf30;
 }
