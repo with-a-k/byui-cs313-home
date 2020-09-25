@@ -1,7 +1,8 @@
 body {
-  background-color: #000000
+  background-color: #1e0522;
+  background-image: image("../statics/marble.jpg");
 }
 
 p {
-  color: #ffffff;
+  color: #ffdf30;
 }
