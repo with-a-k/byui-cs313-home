@@ -7,7 +7,17 @@ p {
   color: #ffdf30;
 }
 
+a.topnav-link {
+  text-decoration: underline;
+  color: #ffdf30;
+}
+
+a.topnav-link:hover {
+  color: #ffff50;
+}
+
 .card.project {
+  border: 1px solid #845483;
   background-color: #592561;
 }
 

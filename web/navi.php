@@ -4,7 +4,7 @@
   <p class="h1 subheader text-center">Erik's Page</h1>
   <p class="text-center">The current time is <?php echo date("h:i a"); ?>.</p>
 <ul class="menu expanded align-center">
-  <li><a href="index.php">Index</a></li>
-  <li><a href="projects.php">Projects</a></li>
+  <li><a class="topnav-link" href="index.php">Index</a></li>
+  <li><a class="topnav-link" href="projects.php">Projects</a></li>
 </ul>
 </html>
