@@ -1,6 +1,6 @@
 body {
   background-color: #1e0522;
-  background-image: image("statics/marble.jpg");
+  background-image: image("./statics/marble.jpg");
 }
 
 p {
