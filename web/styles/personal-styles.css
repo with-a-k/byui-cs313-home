@@ -6,3 +6,17 @@ body {
 p {
   color: #ffdf30;
 }
+
+.card {
+  background-color: #592561;
+}
+
+.card-divider {
+  background-color: #845483;
+  color: #ffdf30;
+}
+
+.card-section {
+  background-color: #945F9A;
+  color: #ffdf30;
+}

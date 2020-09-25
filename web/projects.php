@@ -10,8 +10,8 @@
     </div>
     <p class="text-center">Here's some things I've made. Or will make.</p>
     <div class="card-container grid-container fluid">
-      <div class="grid-x">
-        <div class="card cell small-5">
+      <div class="grid-x grid-margin-1">
+        <div class="card cell small-4">
           <div class="card-divider">
             TableTime
           </div>
@@ -19,7 +19,7 @@
             Coordinating meetings is hard. I'm creating TableTime to help make it easier, no matter how many time zones you're dealing with.
           </div>
         </div>
-        <div class="card cell small-5">
+        <div class="card cell small-4">
           <div class="card-divider">
             Valor Character Builder
           </div>
